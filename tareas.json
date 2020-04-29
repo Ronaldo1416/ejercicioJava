@@ -1,0 +1,34 @@
+[
+ {
+  "titulo": "Repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Armar aplicación de Tareas",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Break",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Debo revisar el slack",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Debo enviar mis dudas",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Leer http",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "estudiar",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "¨Estudia",
+  "estado": "pendiente"
+ }
+]
